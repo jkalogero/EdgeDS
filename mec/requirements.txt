@@ -1,0 +1,19 @@
+connexion >= 2.6.0
+python_dateutil == 2.6.0
+setuptools >= 21.0.0
+pymongo==3.12.0
+requests==2.25.1
+python-jose[cryptography]
+cffi==1.15.1
+bcrypt
+bcrypt==3.1.7 #used in python 3.5 running server for dev
+psycopg2-binary
+#psycopg2==2.7.7 #used in python 3.5 running server for dev
+flask-api==3.0.post1
+prompt-toolkit==1.0.14
+pygments==2.13.0
+pyinquirer==1.0.3
+pyyaml==6.0
+regex==2022.10.31
+swagger-ui-bundle==0.0.9
+wcwidth==0.2.5

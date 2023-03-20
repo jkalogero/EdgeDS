@@ -1,1 +1,3 @@
-# EdgeDS
+# EdgeDS: Data Space enabled Edge Computing
+
+In this work we introduce an architecture that extends the ETSI MEC Architectural Framework with artifacts from the International Data Spaces Reference Architecture Model, accompanied by processes that automatically enrich Edge Computing applications with data space capabilities in an as-a-service paradigm. We provide a custom implementation of the MEC Architecture, while for incorporating the Dataspace Connectors we use the helm chart provided by https://github.com/International-Data-Spaces-Association/DataspaceConnector# EdgeDS
